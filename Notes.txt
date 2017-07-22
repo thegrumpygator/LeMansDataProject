@@ -1,0 +1,14 @@
+can I predict lemans winner?
+
+Hyp:
+Drivers who have raced lemans before
+	num laps run day
+	num laps run night
+	preference the more recent laps
+
+breakdown by car type
+
+Teams who have raced lemans before
+
+Teams whoh have won other endurance events
+
